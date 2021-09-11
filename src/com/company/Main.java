@@ -9,7 +9,7 @@ public class Main {
         System.out.println("   Character Builder     ");
         System.out.println("*************************");
 
-        Menu.start();
+        UserMenu.start();
     }
 }
 

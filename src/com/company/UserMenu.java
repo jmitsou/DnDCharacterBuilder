@@ -1,6 +1,6 @@
 package com.company;
 
-public class Menu {
+public class UserMenu {
 
     public static void start(){
 
@@ -15,8 +15,6 @@ public class Menu {
         mainMenu(choice);
 
     }
-
-
 
     public static void mainMenu(int sel){
         if (sel == 1){

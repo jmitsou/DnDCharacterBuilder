@@ -8,7 +8,6 @@ public class Main {
         System.out.println("     Welcome to DnD      ");
         System.out.println("   Character Builder     ");
         System.out.println("*************************");
-
         UserMenu.start();
     }
 }

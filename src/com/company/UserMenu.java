@@ -33,4 +33,7 @@ public class UserMenu {
     }
 
 
+    public static class Backpack {
+
+    }
 }

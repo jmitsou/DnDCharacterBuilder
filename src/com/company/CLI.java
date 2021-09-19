@@ -22,8 +22,8 @@ public class CLI {
         return num;
     }
 
-    public static String getStr() {
-        String str = input.nextLine();
-        return str;
+    public static String getStr(String question) {
+        System.out.print(question);
+        return input.nextLine();
     }
 }

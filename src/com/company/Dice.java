@@ -7,7 +7,7 @@ public class Dice {
     private int sides;
     private int value;
 
-    public Dice() {
+    public Dice(int sides) {
         this.sides = sides;
         this.value = getValue();
     }
